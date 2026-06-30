@@ -3,7 +3,11 @@
 一个简单高效的 Python 工具，专为财务/行政/出差人员设计，能**自动扫描报销文件并生成统一格式的 Excel 报销表**。
 
 ---
+**Windows 一键安装程序（推荐）**
 
+[![Download v1.1.0](https://img.shields.io/badge/Download-v1.1.0-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PretendMask/auto-report-tool/releases/download/v1.1.0/autoreporttoolv1.0.exe)
+
+> 文件大小 ≈ 48 MB｜支持 Windows 10/11
 ## 📖 项目介绍
 
 在日常工作中，员工报销通常需要提交订单截图、发票等文件。手动整理这些报销单非常繁琐，容易出错且效率低下。
